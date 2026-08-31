@@ -39,7 +39,7 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto"
 )
 
-print("✅ Model loaded from cache successfully!")
+print("model loaded from cache successfully")
 
 #Check it's working/responding with a test prompt. Update: it works!
 #Test response
