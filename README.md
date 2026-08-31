@@ -1,4 +1,5 @@
-        Evaluating the Content and Consistency of Suicidal Thoughts using NLP and LLMs
+        Mapping the Content and Consistency of Suicidal Thoughts with Large Language 
+
 Link to paper: 
 This repository includes:
 1. Code for BERTopic Topic modeling.
